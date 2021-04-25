@@ -1,6 +1,6 @@
-# Text Headers
+# PDB Highlighter
 
-Make text headers at [https://text-framing.herokuapp.com/](https://text-framing.herokuapp.com/).
+Highlight PDB files at [https://pdb-highlighter.herokuapp.com/](https://pdb-highlighter.herokuapp.com/).
 
 
 ## Running locally
